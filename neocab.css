@@ -1,0 +1,26 @@
+*{box-sizing:border-box;}
+img{max-width:100%;height: auto;}
+body{
+	background-color: rgb(254,65,73);
+	font-size: 16px;
+	line-height: 16px;
+}
+div.content{
+	margin:auto;
+	width: 70%;
+}
+
+h1{
+	font-family: 'Lato', Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 5em;
+	text-transform: uppercase;
+	background-image: url('img/neocab_logo.png');
+	background: top left no-repeat;
+}
+
+h2{
+	font-family: 'Glegoo', Helvetica, serif;
+	color: rgb(74,74,74);
+	font-size: 1.5em;
+}
